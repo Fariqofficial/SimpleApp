@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Check sentences and Current Location Apps</string>
+    <string name="check_sentence">Check Sentence</string>
+    <string name="check_location_device">Check Current Location</string>
+    <string name="input_text">Input kalimat disini :</string>
+    <string name="check_sentences">Cek Kalimat</string>
+    <string name="total_vowels">Jumlah Huruf Vokal :</string>
+    <string name="total_consonant">Jumlah Huruf Konsonan :</string>
+    <string name="total_number">Jumlah Angka :</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
